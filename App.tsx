@@ -44,6 +44,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     height: "5%",
     color: "#821731"
+    margiu
 
   }
 
